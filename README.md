@@ -144,3 +144,4 @@ NODE_ENV=development
 // Category management system
 // Review moderation system
 // Admin dashboard analytics
+// Security enhancements
