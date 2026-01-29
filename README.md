@@ -149,3 +149,4 @@ NODE_ENV=development
 // Performance optimizations
 // Database schema improvements
 // Error handling improvements
+// Testing framework setup
