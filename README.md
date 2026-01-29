@@ -141,3 +141,4 @@ NODE_ENV=development
 - Cloudinary
 // User management feature
 // Recipe management enhancement
+// Category management system
