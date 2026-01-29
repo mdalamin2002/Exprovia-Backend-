@@ -143,3 +143,4 @@ NODE_ENV=development
 // Recipe management enhancement
 // Category management system
 // Review moderation system
+// Admin dashboard analytics
